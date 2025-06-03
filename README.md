@@ -58,6 +58,6 @@ Welcome to the **micro-it** repository! This collection showcases several mini p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/micro-it.git
+   git clone https://github.com/Anifa1710/micro-it.git
    cd micro-it
    ```
