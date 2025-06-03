@@ -100,7 +100,7 @@ student-success-prediction/
 
 ## 🙋‍♀️ Author
 
-**Hanifa**  
+**Anifa Mahmeen**  
 Aspiring Data Scientist | Python, ML & Data Visualization Enthusiast
 
 ---
